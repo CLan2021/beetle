@@ -39,7 +39,7 @@ Loc0924	Monitor20200924_0928_soil	warmroom	soil	LD_4	5	S9412	n7573	BF	12_10	1000
 Loc0924	Monitor20200924_0928_soil	warmroom	soil	LD_4	6	S8960	n7488	WL	3_5	850.7-755.1	WT	F	L		Inactive	0	n7958	9/30/20	10/6/20	10.002	0	0	0	1.053	0	s	
 Loc0924	Monitor20200924_0928_soil	warmroom	soil	LD_4	7	S9211	n7565	WL	1_1	898.4	WT	F	L		Inactive	0	n7959	9/30/20	10/6/20	10.091	0	0	0	0.802	0	s	
 Loc0924	Monitor20200924_0928_soil	warmroom	soil	LD_4	8	S9461	n7583	WL	1_1	898.4	WT	M	L		Inactive	0	n7959	9/30/20	10/6/20	10.091	0	0	0	0.923	0	s	
-Loc0924	Monitor20200924_0928_soil	warmroom	soil	LD_4	9	T0758	n7890	MF	7429_7427		F	F	L										1				
+Loc0924	Monitor20200924_0928_soil	warmroom	soil	LD_4	9	T0758	n7890	MF	7429_7427		F20	F	L										1				
 Loc0924	Monitor20200924_0928_soil	warmroom	soil	LD_4	10	S9452	n7583	WL	1_1	898.4	WT	M	L		Active	1	n7954	9/30/20	10/6/20	10.137	0	0	0	0.913	0	s	
 Loc0924	Monitor20200924_0928_soil	warmroom	soil	LD_4	11	S9213	n7565	WL	1_1	898.4	WT	M	L		Active	1	n7953	9/30/20	10/6/20	9.954	1	1	0	4.084	0	s	
 Loc0924	Monitor20200924_0928_soil	warmroom	soil	LD_4	12	S9177	n7584	BF	8_8	1400	WT	M	L		Inactive	0	n7965	9/30/20	10/13/20	10.165	1	0	0	0.609	0	s	
@@ -56,7 +56,7 @@ Loc0924	Monitor20200924_0928_soil	warmroom	soil	LD_4	22	S8970	n7488	WL	3_5	850.7
 Loc0924	Monitor20200924_0928_soil	warmroom	soil	LD_4	23	S9193	n7584	BF	8_8	1400	WT	F	L		Inactive	0	n7966	9/30/20	10/13/20	10.062	0	0	0	1.636	0	s	
 Loc0924	Monitor20200924_0928_soil	warmroom	soil	LD_4	24	S9369	n7577	BF	12_12	1000	WT	F	L		Abnormal	0.5	n7967	9/30/20	10/13/20	9.931	0.5	0	0	6.132	0	s	
 Loc0924	Monitor20200924_0928_soil	warmroom	soil	LD_4	25	S9241	n7578	WL	3_3	850.7	WT	F	L		Abnormal	0.5	n7961	9/30/20	10/6/20	10.114	0.5	0	0	2.211	0	s	
-Loc0924	Monitor20200924_0928_soil	warmroom	soil	LD_4	26	T0780	n7890	MF	7429_7427		F	M	L										1				
+Loc0924	Monitor20200924_0928_soil	warmroom	soil	LD_4	26	T0780	n7890	MF	7429_7427		F20	M	L										1				
 Loc0924	Monitor20200924_0928_soil	warmroom	soil	LD_4	27	S9366	n7577	BF	12_12	1000	WT	F	L		Active	1	n7963	9/30/20	10/13/20	10.239	1	0	1	on carcass	1	y	
 Loc0924	Monitor20200924_0928_soil	warmroom	soil	LD_4	28	S8962	n7488	WL	3_5	850.7-755.1	WT	M	L		Abnormal	0.5	n7961	9/30/20	10/6/20	10.114	0.5	0	0	carcass	1.00	y	
 Loc0924	Monitor20200924_0928_soil	warmroom	soil	LD_4	29	S9216	n7565	WL	1_1	898.4	WT	M	L		Abnormal	0.5	n7957	9/30/20	10/6/20	10.13	0	0	0	1.088	0	s	
@@ -65,7 +65,7 @@ Loc0924	Monitor20200924_0928_soil	warmroom	soil	LD_4	31	S9181	n7584	BF	8_8	1400	
 Loc0924	Monitor20200924_0928_soil	warmroom	soil	LD_4	32	S9467	n7583	WL	1_1	898.4	WT	F	L		Inactive	0	n7957	9/30/20	10/6/20	10.13	0	0	0	6.091	0	s	
 Loc1001	Monitor20201001_1005_soil	warmroom	soil	LD_4	1	S9519	n7582	WL	11_7	694.8-477.6	WT	F	L		Inactive	0	n7969	10/8/20	10/13/20	10.187	0	0	0	1.13	0	s	
 Loc1001	Monitor20201001_1005_soil	warmroom	soil	LD_4	2	S9502	n7588	WL	1_2		WT	F	S		Highly Active	1	n7974	10/8/20	10/22/21	9.512	1	1	1	on carcass	1	NA	
-Loc1001	Monitor20201001_1005_soil	warmroom	soil	LD_4	3	T0791	n7890	MF	7429_7427		F	M	L										1				
+Loc1001	Monitor20201001_1005_soil	warmroom	soil	LD_4	3	T0791	n7890	MF	7429_7427		F20	M	L										1				
 Loc1001	Monitor20201001_1005_soil	warmroom	soil	LD_4	4	S9176	n7584	BF	8_8	1400	WT	F	L		Inactive	0	n7977	10/8/20	10/13/20	9.394	0.5	0	0	0.54	0	s	
 Loc1001	Monitor20201001_1005_soil	warmroom	soil	LD_4	5	S9322	n7575	BF	15_17	500-700	WT	M	S		Active	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	
 Loc1001	Monitor20201001_1005_soil	warmroom	soil	LD_4	6	S9353	n7577	BF	12_12	1000	WT	F	L		Active	1	n7978	10/8/20	10/13/20	10.185	1	0	0	on carcass	1	y	
@@ -91,7 +91,7 @@ Loc1001	Monitor20201001_1005_soil	warmroom	soil	LD_4	25	S9290	n7575	BF	15_17	500
 Loc1001	Monitor20201001_1005_soil	warmroom	soil	LD_4	26	S9332	n7577	BF	12_12	1000	WT	M	S		Highly Active	1	n7979	10/8/20	10/22/20	9.548	1	0	1	7.185	0	NA	
 Loc1001	Monitor20201001_1005_soil	warmroom	soil	LD_4	27	S9520	n7582	WL	11_7	694.8-477.6	WT	M	L		Inactive	0	n7971	10/8/20	10/13/20	9.93	0	0	0	7.496	0	s	
 Loc1001	Monitor20201001_1005_soil	warmroom	soil	LD_4	28	S9451	n7583	WL	1_1	898.4	WT	F	L		Inactive	0	n7968	10/8/20	10/13/20	10.071	0	0	0	0.663	0	s	
-Loc1001	Monitor20201001_1005_soil	warmroom	soil	LD_4	29	T0774	n7890	MF	7429_7427		F	F	L										1				
+Loc1001	Monitor20201001_1005_soil	warmroom	soil	LD_4	29	T0774	n7890	MF	7429_7427		F20	F	L										1				
 Loc1001	Monitor20201001_1005_soil	warmroom	soil	LD_4	30	S9507	n7588	WL	1_2		WT	M	S		Active	1	n7976	10/8/20	10/22/20	10.185	1	0	1	on carcass	1	NA	
 Loc1001	Monitor20201001_1005_soil	warmroom	soil	LD_4	31	S9277	n7578	WL	3_3	850.7	WT	F	S		Active	1	n7976	10/8/20	10/22/20	10.185	1	0	1	on carcass	1	NA	
 Loc1001	Monitor20201001_1005_soil	warmroom	soil	LD_4	32	S9356	n7577	BF	12_12	1000	WT	M	L		Active	1	n7977	10/8/20	10/13/20	9.394	0.5	0	0	on carcass	1	y	
@@ -342,7 +342,7 @@ Loc1210-1	Monitor20201210_1214(1)_edit	long	soil	LD_4	2	T0396	n7727	BF	5_1		WT	M
 Loc1210-1	Monitor20201210_1214(1)_edit	long	soil	LD_4	3	T0494	n7729	BF	3_7		WT	M	L														
 Loc1210-1	Monitor20201210_1214(1)_edit	long	soil	LD_4	4	T1797	n7918	OK	7528_7529		F2	M	L				n8166	12/16/20	12/30/20		0		0	8.52	0		
 Loc1210-1	Monitor20201210_1214(1)_edit	long	soil	LD_4	5	T0248	n7721	BF	3_6		WT	M	L														
-Loc1210-1	Monitor20201210_1214(1)_edit	long	soil	LD_4	6	T0254	n7721	BF	3_6		WT	MM	L														
+Loc1210-1	Monitor20201210_1214(1)_edit	long	soil	LD_4	6	T0254	n7721	BF	3_6		WT	M	L														
 Loc1210-1	Monitor20201210_1214(1)_edit	long	soil	LD_4	7	T1720	n7917	OK	7528_7529		F2	F	L														
 Loc1210-1	Monitor20201210_1214(1)_edit	long	soil	LD_4	8	T1664	n7917	OK	7528_7529		F2	M	H				n8161	12/16/20	12/30/20		0		0	7.65	0		
 Loc1210-1	Monitor20201210_1214(1)_edit	long	soil	LD_4	9	T0256	n7721	BF	3_6		WT	F	L														
@@ -401,17 +401,17 @@ Loc1210-2	Monitor20201210_1214(2)_edit	long	soil	LD_4	29	T1677	n7917	OK	7528_752
 Loc1210-2	Monitor20201210_1214(2)_edit	long	soil	LD_4	30	T0232	n7726	BF	5_4		WT	F	L														
 Loc1210-2	Monitor20201210_1214(2)_edit	long	soil	LD_4	31	T1796	n7918	OK	7528_7529		F2	F	L				n8165	12/16/20	12/30/20		0		0	9.88	0		
 Loc1210-2	Monitor20201210_1214(2)_edit	long	soil	LD_4	32	T0397	n7727	BF	5_1		WT	M	L														
-Loc1217-1	Monitor20201217_1221(1)_edit  long	soil	LD_DD_8	1	TNY_3426		WL	7		WC	M	S				n8195	1/5/21	1/19/21		1	0	1				
-Loc1217-1	Monitor20201217_1221(1)_edit	long	soil	LD_DD_8	2	TNY_3456		BF	27		WC		S														
+Loc1217-1	Monitor20201217_1221(1)_edit	long	soil	LD_DD_8	1	TNY_3426		WL	7		WC	M	S				n8195	1/5/21	1/19/21		1	0	1				
+Loc1217-1	Monitor20201217_1221(1)_edit	long	soil	LD_DD_8	2	TNY_3456		BF	27		WC	F	S														
 Loc1217-1	Monitor20201217_1221(1)_edit	long	soil	LD_DD_8	3	TNY_3445		BF	3		WC	F	S														
-Loc1217-1	Monitor20201217_1221(1)_edit	long	soil	LD_DD_8	4	TNY_3455		BF	27		WC		S														
+Loc1217-1	Monitor20201217_1221(1)_edit	long	soil	LD_DD_8	4	TNY_3455		BF	27		WC	M	S														
 Loc1217-1	Monitor20201217_1221(1)_edit	long	soil	LD_DD_8	5	TNY_3422		WL	1		WC	M	S				n8197	1/5/21	1/20/21		1		1				
 Loc1217-1	Monitor20201217_1221(1)_edit	long	soil	LD_DD_8	6	TNY_3444		BF	3		WC	F	S														
 Loc1217-1	Monitor20201217_1221(1)_edit	long	soil	LD_DD_8	7	TNY_3443		BF	3		WC	M	S														
 Loc1217-1	Monitor20201217_1221(1)_edit	long	soil	LD_DD_8	8	TNY_3442		BF	3		WC	M	S														
 Loc1217-1	Monitor20201217_1221(1)_edit	long	soil	LD_DD_8	9	TNY_3423		WL	1		WC	F	S				n8193	1/5/21	1/21/21		1		1				
 Loc1217-1	Monitor20201217_1221(1)_edit	long	soil	LD_DD_8	10	TNY_3457		BF	11		WC	F	S														
-Loc1217-1	Monitor20201217_1221(1)_edit	long	soil	LD_DD_8	11	TNY_3458		BF	28		WC		S														
+Loc1217-1	Monitor20201217_1221(1)_edit	long	soil	LD_DD_8	11	TNY_3458		BF	28		WC	M	S														
 Loc1217-1	Monitor20201217_1221(1)_edit	long	soil	LD_DD_8	12	TNY_3438		BF	19		WC	M	S														
 Loc1217-1	Monitor20201217_1221(1)_edit	long	soil	LD_DD_8	13	TNY_3439		BF	19		WC	M	S														
 Loc1217-1	Monitor20201217_1221(1)_edit	long	soil	LD_DD_8	14	TNY_3427		WL	7		WC	M	S				n8192	1/5/21	1/21/21		1	0	0				
